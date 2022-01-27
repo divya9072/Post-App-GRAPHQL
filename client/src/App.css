@@ -1,0 +1,18 @@
+.post{
+  margin-top: 3rem;
+  padding-left: 8rem;
+}
+.post > button{
+  margin-top: 1.2rem;
+}
+
+.data{
+  padding-left: 8rem;
+  margin-top: 4rem;
+}
+strong{
+  color: rgb(194, 194, 194);
+}
+input{
+  margin-bottom: 2rem;
+}
